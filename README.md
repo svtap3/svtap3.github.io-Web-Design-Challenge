@@ -1,1 +1,1 @@
-# svtap3.github.io-Web-Design-Challenge
+# Web-Design-Challenge
